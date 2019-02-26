@@ -1,0 +1,14 @@
+DLL: Dynamic Link Library 
+Usage:  When a program is launched, links to the necessary .dll files which are created.
+If a static link is created, the .dll files will be in use if the program is active. 
+If a dynamic link is created, the .dll files will only be used when needed. 
+
+Usage of DLL for current Project:
+
+•	Checks the internet connection.
+•	Gets the current or new location from the database and updates the same to UI.
+•	Checks the water level.
+•	Flood level is calculated and gives updates to the UI.
+•	Duration is measured and updated to UI.
+  For any on click function in the UI layer, dlls helps to link to db to retrieve the information and then the businesslayer
+  again reverts the results back to the UI 
