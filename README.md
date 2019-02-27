@@ -1,2 +1,2 @@
 # BI
-Business Layer interacts between The UI and The DB Layer.
+Business Layer interacts between the UI and DB Layer.
