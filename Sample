@@ -1,0 +1,25 @@
+﻿using System;
+namespace ConsoleApp1
+{
+    public class Sample
+    {
+        public static double Addition(double x, double y)
+        {
+            return x + y;
+        }
+     
+    }
+}
+/* public class Class1
+ {
+     public static int method1(int value1)
+     {
+         return 1;
+     }
+     public string value1()
+     {
+         return "test";
+     }
+ }
+}
+*/

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <RootNamespace>ClassLibrary2</RootNamespace>
+    <AssemblyName>ClassLibrary2</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Sample" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Sample" />
+  </ItemGroup>
+
+</Project>
