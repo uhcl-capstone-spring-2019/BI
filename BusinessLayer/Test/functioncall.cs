@@ -18,6 +18,8 @@ namespace BusinessLayer.Test
             Console.ReadLine();
             Console.WriteLine("Enter the buildingType: ");
             Console.ReadLine();
+            Console.WriteLine("Enter the buildersearch: ");
+            Console.ReadLine();
         }
     }
 }
